@@ -25,7 +25,7 @@ Este é o meu espaço no GitHub onde compartilho projetos, experimentos e aprend
 Daqui pra baixo ainda irei melhorar:
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SanTorresx99&show_icons=true&theme=dark)
 
 ## Projetos em Destaque
 
@@ -37,3 +37,22 @@ Aqui estão alguns dos meus projetos em destaque:
 
 ## Fique à vontade para explorar meus repositórios e entrar em contato se você estiver interessado em colaborar ou tiver alguma pergunta!
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Developer-Back%20End%20%7C%20Front%20End-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node.js-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Brasil-0d1117?style=for-the-badge" />
+</div>
+
+<h2 align="center">📈 Minhas métricas</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projetos-12-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Commits-204-6cc644?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stars-40-ffd43b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-8-8a2be2?style=flat-square" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanTorresx99&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTorresx99&layout=compact&theme=tokyonight" />
+</p>
